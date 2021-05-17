@@ -1,7 +1,7 @@
 # learns
 ## A place for me to learn coding and GitHub 
 
-Hey cats! I'm here to learn how to code. Or not code, depending on the platform. (Hi, Power Apps!)
+Hello! I'm here to learn how to code. Or not code, depending on the platform. (Hi, Power Apps!)
 
 I've been a tech writer for 15 years. Before that I did metal-to-monitor database management (Dell rackmounted servers->SuSE Linux->Oracle->MS Access+Oracle Portal) for the Vice Provost of Planning and Budgeting at UW. Before that I developed and maintained an office automation system for a law office using MS Access (I was also their legal assistant.)
 
